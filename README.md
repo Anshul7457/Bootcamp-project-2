@@ -4,7 +4,7 @@
 
 ##  Getting Started
 
-   *  Simply download the ./ sudoku-solver.cpp ./ file found in the ./ Bootcamp-project-2/ ./ directory. Run it using any standard C++ compiler. In case of any errors or compatibility issues,submit an issue in this git.
+   *  Simply download the [sudoku-solver.cpp](sudoku-solver.cpp) file found in the [Bootcamp-project-2/](Bootcamp-project-2/) directory. Run it using any standard C++ compiler. In case of any errors or compatibility issues,submit an issue in this git.
 
   * There are two ways to to input the Sudoku puzzle after downloading the code.
 
