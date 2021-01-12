@@ -10,7 +10,7 @@
 
     - The user can either input the values manually one-by-one when the program is running.
 
-    - The user can write all the values into a file, seperated by whitespaces. The file can have any name or extension. When the program is running, the user will be prompted to simply enter the name of the file (with extension).Look at the ./ sample.txt ./ file in the same directory for example of input.
+    - The user can write all the values into a file, seperated by whitespaces. The file can have any name or extension. When the program is running, the user will be prompted to simply enter the name of the file (with extension).Look at the [sample.txt](sample.txt) file in the same directory for example of input.
 ##  How It Works
 I've written a simple algorithm to give an idea of how the program works which uses backtracking.
 
