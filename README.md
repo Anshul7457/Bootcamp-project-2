@@ -4,13 +4,13 @@
 
 ##  Getting Started
 
-   *  Simply download the ./sudoku-solver.cpp./ file found in the ./Bootcamp-project-2/./ directory. Run it using any standard C++ compiler. In case of any errors or compatibility issues,submit an issue in this git.
+   *  Simply download the ./ sudoku-solver.cpp ./ file found in the ./ Bootcamp-project-2/ ./ directory. Run it using any standard C++ compiler. In case of any errors or compatibility issues,submit an issue in this git.
 
   * There are two ways to to input the Sudoku puzzle after downloading the code.
 
     - The user can either input the values manually one-by-one when the program is running.
 
-    - The user can write all the values into a file, seperated by whitespaces. The file can have any name or extension. When the program is running, the user will be prompted to simply enter the name of the file (with extension).Look at the ./sample.txt./ file in the same directory for example of input.
+    - The user can write all the values into a file, seperated by whitespaces. The file can have any name or extension. When the program is running, the user will be prompted to simply enter the name of the file (with extension).Look at the ./ sample.txt ./ file in the same directory for example of input.
 ##  How It Works
 I've written a simple algorithm to give an idea of how the program works which uses backtracking.
 
