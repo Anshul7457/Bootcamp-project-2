@@ -1,16 +1,13 @@
 # Bootcamp-project-2
 ## SUDOKU SOLVER
-  This is a program which solves Sudoku puzzles(should be 9x9 format). Written completely in C++, this program reads input either from a user or from a file containing  the Sudoku values and solves the puzzle. It employs concepts such as backtracking and recursion.
+  This is a program which solves Sudoku puzzles(should be 9x9 format). Written completely in C++, this program reads input from a file containing  the Sudoku values and solves the puzzle. It employs concepts such as backtracking and recursion.
 
 ##  Getting Started
 
    *  Simply download the [sudokusolver.cpp](sudokusolver.cpp) file found in the [Bootcamp-project-2](Bootcamp-project-2) directory. Run it using any standard C++ compiler. In case of any errors or compatibility issues,submit an issue in this git.
 
-  * There are two ways to to input the Sudoku puzzle after downloading the code.
-
-    - The user can either input the values manually one-by-one when the program is running.
-
-    - The user can write all the values into a file, seperated by whitespaces. The file can have any name or extension. When the program is running, the user will be prompted to simply enter the name of the file (with extension).Look at the [sample.txt](sample.txt) file in the same directory for example of input.
+  * To input the Sudoku puzzle after downloading the code, the user have to write all the values into a file, seperated by whitespaces. The file can have any name or extension. When the program is running, the user will be prompted to simply enter the name of the file (with extension).Look at the [sample.txt](sample.txt) file in the same directory for example of input.
+    
 ##  How It Works
 I've written a simple algorithm to give an idea of how the program works which uses backtracking.
 
@@ -23,5 +20,6 @@ I've written a simple algorithm to give an idea of how the program works which u
 6. The puzzle has now been solved.
 7. Stop.
 
-## Tools
+## Tools and Languages
 * VS Code
+* C++
